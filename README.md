@@ -11,3 +11,9 @@ How do I approach developing programs?
 How can computer science help me in reaching my goals?
 
 - Computer science has already been helping me reach my goals as I currently work from home as a QA Engineer. I get to spend every day with my son and this is all thanks to changing careers into this new field. As my tool belt continues to grow within the realm of computer science I can increase my earning potential and create an even better life for my family. 
+
+
+Screenshots of my OpenGL project in action:
+![Screenshot 2023-04-19 220808](https://user-images.githubusercontent.com/58713197/233534625-94be30b2-2521-43d3-bf91-0f90175c6f28.png)
+![Screenshot 2023-04-19 220845](https://user-images.githubusercontent.com/58713197/233534633-66fae23d-bb0a-4abe-aec3-a7ad2e4447a4.png)
+
