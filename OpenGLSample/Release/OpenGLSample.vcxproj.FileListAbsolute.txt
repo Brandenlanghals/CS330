@@ -1,0 +1,2 @@
+C:\Users\brand\Desktop\OpenGLSample\OpenGLSample\Release\OpenGLSample.vcxproj.CopyComplete
+C:\Users\brand\Desktop\OpenGL Project\OpenGLSample\Release\OpenGLSample.vcxproj.CopyComplete

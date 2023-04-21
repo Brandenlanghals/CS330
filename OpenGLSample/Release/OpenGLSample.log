@@ -1,0 +1,15 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (OpenGLSample.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\brand\Desktop\OpenGL Project\OpenGLSample\Source.cpp(286,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\brand\Desktop\OpenGL Project\OpenGLSample\Source.cpp(409,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brand\Desktop\OpenGL Project\OpenGLSample\Source.cpp(410,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brand\Desktop\OpenGL Project\OpenGLSample\Source.cpp(414,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\brand\Desktop\OpenGL Project\OpenGLSample\Source.cpp(415,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\brand\Desktop\OpenGL Project\OpenGLSample\Source.cpp(417,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brand\Desktop\OpenGL Project\OpenGLSample\Source.cpp(418,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  0 of 454 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenGLSample.vcxproj -> C:\Users\brand\Desktop\OpenGL Project\Release\CS330Project.exe
